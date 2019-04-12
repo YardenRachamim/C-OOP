@@ -1,0 +1,7 @@
+C:\Users\Yarden\Computer Science\Third year\Second Semester\OOP C#\B19_Ex01_01\bin\Debug\B19_Ex01_01.exe.config
+C:\Users\Yarden\Computer Science\Third year\Second Semester\OOP C#\B19_Ex01_01\bin\Debug\B19_Ex01_01.exe
+C:\Users\Yarden\Computer Science\Third year\Second Semester\OOP C#\B19_Ex01_01\bin\Debug\B19_Ex01_01.pdb
+C:\Users\Yarden\Computer Science\Third year\Second Semester\OOP C#\B19_Ex01_01\obj\Debug\B19_Ex01_01.csprojAssemblyReference.cache
+C:\Users\Yarden\Computer Science\Third year\Second Semester\OOP C#\B19_Ex01_01\obj\Debug\B19_Ex01_01.csproj.CoreCompileInputs.cache
+C:\Users\Yarden\Computer Science\Third year\Second Semester\OOP C#\B19_Ex01_01\obj\Debug\B19_Ex01_01.exe
+C:\Users\Yarden\Computer Science\Third year\Second Semester\OOP C#\B19_Ex01_01\obj\Debug\B19_Ex01_01.pdb
